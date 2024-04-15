@@ -1,5 +1,6 @@
 // DelMeRepoAttend.cpp : Defines the exported functions for the DLL.
 //
+//comment
 
 #include "framework.h"
 #include "DelMeRepoAttend.h"
