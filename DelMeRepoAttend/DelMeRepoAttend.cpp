@@ -22,5 +22,5 @@ CDelMeRepoAttend::CDelMeRepoAttend()
 
 DELMEREPOATTEND_API int testMe(int i) 
 {
-    return i + i;
+    return i + I - fail;
 }
